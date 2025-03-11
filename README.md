@@ -1,0 +1,3 @@
+# presentation-project
+Es el inicio de un projecto personal para el desarrollo de un emprendimiento en servicios web, dando la imformacion necesaria de las razones para necesitar una pagina web como medio informativo y de presentacion personal para una empresa, emprendimiento o imagen personal.
+projecto en desarrollo...
